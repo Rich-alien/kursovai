@@ -1,0 +1,18 @@
+﻿  ConsoleApplication2.cpp
+d:\уник\3 курс\1 семестр\курсовая\mmnkj\cpp_threads\consoleapplication2\consoleapplication2\consoleapplication2.cpp(268): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\уник\3 курс\1 семестр\курсовая\mmnkj\cpp_threads\consoleapplication2\consoleapplication2\consoleapplication2.cpp(270): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\уник\3 курс\1 семестр\курсовая\mmnkj\cpp_threads\consoleapplication2\consoleapplication2\consoleapplication2.cpp(293): warning C4018: <: несоответствие типов со знаком и без знака
+d:\уник\3 курс\1 семестр\курсовая\mmnkj\cpp_threads\consoleapplication2\consoleapplication2\consoleapplication2.cpp(310): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\уник\3 курс\1 семестр\курсовая\mmnkj\cpp_threads\consoleapplication2\consoleapplication2\consoleapplication2.cpp(346): warning C4018: <: несоответствие типов со знаком и без знака
+d:\уник\3 курс\1 семестр\курсовая\mmnkj\cpp_threads\consoleapplication2\consoleapplication2\consoleapplication2.cpp(396): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\уник\3 курс\1 семестр\курсовая\mmnkj\cpp_threads\consoleapplication2\consoleapplication2\consoleapplication2.cpp(397): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\уник\3 курс\1 семестр\курсовая\mmnkj\cpp_threads\consoleapplication2\consoleapplication2\consoleapplication2.cpp(399): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\уник\3 курс\1 семестр\курсовая\mmnkj\cpp_threads\consoleapplication2\consoleapplication2\consoleapplication2.cpp(400): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\уник\3 курс\1 семестр\курсовая\mmnkj\cpp_threads\consoleapplication2\consoleapplication2\consoleapplication2.cpp(402): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\уник\3 курс\1 семестр\курсовая\mmnkj\cpp_threads\consoleapplication2\consoleapplication2\consoleapplication2.cpp(403): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\уник\3 курс\1 семестр\курсовая\mmnkj\cpp_threads\consoleapplication2\consoleapplication2\consoleapplication2.cpp(404): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\уник\3 курс\1 семестр\курсовая\mmnkj\cpp_threads\consoleapplication2\consoleapplication2\consoleapplication2.cpp(405): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\уник\3 курс\1 семестр\курсовая\mmnkj\cpp_threads\consoleapplication2\consoleapplication2\consoleapplication2.cpp(465): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\уник\3 курс\1 семестр\курсовая\mmnkj\cpp_threads\consoleapplication2\consoleapplication2\consoleapplication2.cpp(466): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\уник\3 курс\1 семестр\курсовая\mmnkj\cpp_threads\consoleapplication2\consoleapplication2\consoleapplication2.cpp(467): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication2.vcxproj -> D:\уник\3 курс\1 семестр\Курсовая\mmnkj\cpp_threads\ConsoleApplication2\Debug\ConsoleApplication2.exe
